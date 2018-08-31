@@ -2,11 +2,11 @@
 Version: 0.16.5
 Date: 31. 08. 2018
   Changes:
-    - Few recipes adjustments.
-  Bugfixes:	
-    - Fix recipe bug.
+    - Few recipes adjustments
     - Update fusion construction robot icon
     - Update few descriptions
+  Bugfixes:	
+    - Fix recipe bug
 ---------------------------------------------------------------------------------------------------
 Version: 0.16.4
 Date: 05. 05. 2018
