@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.16.5
+Date: 31. 08. 2018
+  Changes:
+    - Few recipes adjustments.
+  Bugfixes:	
+    - Fix recipe bug.
+---------------------------------------------------------------------------------------------------
+Version: 0.16.4
+Date: 05. 05. 2018
+  Major Features:
+    - Added a starter kit with a small modular armor with a small fusion reactor, night vision, exoskeleton, roboport and 25 fusion construction robots.
