@@ -5,6 +5,8 @@ Date: 31. 08. 2018
     - Few recipes adjustments.
   Bugfixes:	
     - Fix recipe bug.
+    - Update fusion construction robot icon
+    - Update few descriptions
 ---------------------------------------------------------------------------------------------------
 Version: 0.16.4
 Date: 05. 05. 2018
