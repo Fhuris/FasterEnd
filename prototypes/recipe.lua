@@ -32,7 +32,7 @@ data:extend({
     	ingredients =
     	{
       		{"wood",2},
-      		{"raw-fish",1},
+      		{"high-tech-science-pack",1},
       		{"iron-gear-wheel",1}
     	},
     	energy_required=5,
@@ -62,7 +62,7 @@ data:extend({
     		{"processing-unit",50},
       		{"iron-plate",20},
       		{"copper-cable",10},
-      		{"key-print",0}
+      		{"key-print",1}
     	},
     	energy_required = 30,
     	result = "micro-fusion-reactor"
