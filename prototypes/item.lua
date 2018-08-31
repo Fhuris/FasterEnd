@@ -2,7 +2,7 @@ data:extend({
 	{
 		type = "item",
 		name = "fusion-construction-robot",
-		icon = "__FasterStart__/graphics/icons/fusion-construction-robot.png",
+		icon = "__FasterEnd__/graphics/fusion-construction-robot-icon.png",
 		icon_size = 32,
 		flags = {"goes-to-main-inventory"},
 		subgroup = "logistic-network",
